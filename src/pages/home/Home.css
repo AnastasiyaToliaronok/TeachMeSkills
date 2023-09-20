@@ -1,0 +1,24 @@
+
+
+.mainTextDiv {
+    position: absolute;
+    left: 750px;
+    top: 200px;
+    z-index: 2;
+}
+
+.mainText {
+    font-size: 70px;
+    color: rgb(18, 18, 67);
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    text-shadow: white 1mm 2px;
+}
+
+.mainBtnDiv {
+    position: absolute;
+    left: 100px;
+    top: 600px;
+    z-index: 2;
+}
+

@@ -1,0 +1,55 @@
+.informationDiv {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.certificateImg {
+    width: 350px;
+    height: 400px;
+}
+
+.informationImg {
+    width: 320px;
+    height: 300px;
+    padding-right: 100px;
+    padding-top: 140px;
+}
+
+.informaLogo {
+width: 100px;
+height: 100px;
+display: inline-block;
+}
+
+.informCertificate {
+    font-family: sans-serif;
+    font-size: 45px;
+    display: inline-block;
+    margin-left: 20px;
+    color: rgb(18, 18, 67);
+    text-shadow: rgb(180, 177, 233) 1mm 2px;
+}
+
+.informText {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(104, 104, 147);
+}
+
+.informTitle {
+    font-family: sans-serif;
+    font-size: 35px;
+    color: rgb(67, 67, 218);
+    text-shadow: rgb(188, 195, 228) 1mm 2px;
+    padding-left: 100px;
+}
+
+.informationDivImg {
+    margin-top: 100px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+
